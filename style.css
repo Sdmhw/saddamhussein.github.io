@@ -1,0 +1,23 @@
+body {
+    background-color: silver;
+}
+.nav {
+    background-color: maroon;
+    text-align: center;
+}
+ul li {
+    display: inline-block;
+    list-style-type: none;
+    
+    
+}
+ul li a{
+    
+    text-align: center;
+    padding-right: 45px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
